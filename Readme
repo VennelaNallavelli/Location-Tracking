@@ -1,0 +1,6 @@
+Hello , Iam Vennela.
+In this repository , I tried to trace a mobile number's location using Python modules like Geopy,Folium,Geocoder and Timezone.
+The Interface is Developed using Python Tkinter module.
+Folim is used to show the location on Maps.
+Nominatim is used to determine the latitude and longitude of the location.
+Timezone Identifies the Country.
